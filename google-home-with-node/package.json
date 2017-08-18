@@ -1,0 +1,20 @@
+{
+  "name": "google-home-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {},
+  "author": "iqmeta GmbH",
+  "keywords": [
+    "google home",
+    "push",
+    "mp3",
+    "notifications",
+    "notifier"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "castv2-client": "^1.1.2",
+    "google-tts-api": "0.0.1"
+  }
+}
